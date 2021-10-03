@@ -15,3 +15,6 @@ Code Setup
     2. create a index.ts and complie it (ES5) using tsc index or tsc
     3. we can watch teh file using tsc --watch index  or tsc --watch
     4. To create config file use tsc -init
+
+Integarate Typescript in React 
+    1. create a project using npx create-react-app . --template typescript
